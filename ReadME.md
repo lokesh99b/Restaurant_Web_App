@@ -1,0 +1,2 @@
+# This app allows a restaurant to display their menu online and allow customers to know about the dishes.
+## This app is made using Python, Django, HTMl, CSS, Bootstrap, Jinja and SQLite for the database.
